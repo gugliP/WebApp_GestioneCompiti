@@ -1,6 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F9jR7G97)
-# Exam #2: "Compiti"
-## Student: s347861 Pandolfino Guglielmo 
+## "Compiti"
+## La seguente web app può essere utilizzato con nodemon
+# Descrizione:
+La web app sviluppata è stata creata per un esame del corso di Applicazioni Web I del Politecnico di Torino. Utilizza CORS per una riproduzione in locale tramite 2 diversi indirizzi che possono essere modificati, l'utilizzo in simultanea di più profili può avvenire se si utilizza una scheda del browser in incognito ed una con un utilizzo classico, altre librerie utilizzate sono: bootstrap, bootstrap-icons, react, react-bootstrap, react-dom, react-router-dom, vite, eslint, morgan, express, express-session, express-validator, sqlite3, ed altre che potete trovare nei file package.json di client e server.
 
 ## React Client Application Routes
 
