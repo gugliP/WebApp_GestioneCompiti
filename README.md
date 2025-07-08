@@ -126,8 +126,8 @@
 
 ## Screenshot
 
-![CreaCompito](./screenshot/CreaCompito.png)
-![StatoClasse](./screenshot/StatoClasse.png)
+![CreaCompito](./Screenshot/CreaCompito.png)
+![StatoClasse](./Screenshot/StatoClasse.png)
 
 ## Users Credentials
 
